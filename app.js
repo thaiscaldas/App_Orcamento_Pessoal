@@ -188,7 +188,6 @@ function carregaListaDespesas(despesas = Array(), filtro = false) {
             window.location.reload()
         }
         linha.insertCell(4).append(btn)
-        console.log(d)
     }) 
 
 }
